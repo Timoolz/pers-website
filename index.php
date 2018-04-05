@@ -133,7 +133,18 @@
                     <li class="timeline-event" data-aos="fade-up">
                         <label class="timeline-event-icon"></label>
                         <div class="timeline-event-copy">
-                            <p class="timeline-event-thumbnail">June 2017 - Present</p>
+                            <p class="timeline-event-thumbnail">January 2018 - Present</p>
+                            <!--<h3>Intern</h3>-->
+                            <h4>Full Stack Developer</h4>
+                            <p><strong><a target="_blank" href="https://www.softquestsystems.com/">Softquest Systems</a></strong>
+                                <br>Design and develop application and API, run tests and debug software.</p>
+                        </div>
+                    </li>
+
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">June 2017 - December 2017</p>
                             <!--<h3>Intern</h3>-->
                             <h4>Software developer</h4>
                             <p><strong><a target="_blank" href="http://www.syssoftcons.net/">Syssoft Consultants</a></strong>
