@@ -205,10 +205,13 @@
                 <h3>Social Network</h3>
 
                 <ul class="social">
-                    <li><a href="https://www.facebook.com/olamide.t.laleye" target ="_blank"><i class="fa fa-facebook-f" ></i></a></li>
+                    <!--<li><a href="https://www.facebook.com/olamide.t.laleye" target ="_blank"><i class="fa fa-facebook-f" ></i></a></li>-->
+                    <li><a href="https://stackoverflow.com/users/9306379/olamide-laleye" target ="_blank"><i class="fa fa-stack-overflow"></i></a></li>
                     <li><a href="https://www.twitter.com/Timoolz_" target ="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/olamide-laleye-023ab2b6/" target ="_blank"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://www.github.com/Timoolz" target ="_blank"><i class="fa fa-github"></i></a></li>
+
+
                 </ul>
                 
                 <div class="clearfix"></div>
